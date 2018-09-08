@@ -1,0 +1,17 @@
+{
+  "name": "aht-waves",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@waves/waves-api": "0.28.4",
+    "dotenv": "^6.0.0",
+    "firebase-admin": "^6.0.0",
+    "underscore": "^1.9.1"
+  }
+}
