@@ -1,0 +1,10 @@
+[
+  {"p":["checkMissions"],"t":[60,5]},
+  {"p":["listTokenHolders"],"t":[60,60,12]},
+  {"p":["tweetMagazine"],"t":[60,30]},
+  {"p":["rewardALISArticles","init"],"t":[60,60]},
+  {"p":["rewardALISArticles"],"t":[60,60,6]},
+  {"p":["issueMagazine"],"t":[60,60]},
+  {"p":["processPayment"],"t":[60,5]},
+  {"p":["processPayment","confirm"],"t":[60,5]}
+]

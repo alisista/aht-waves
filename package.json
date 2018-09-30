@@ -10,8 +10,14 @@
   "license": "MIT",
   "dependencies": {
     "@waves/waves-api": "0.28.4",
+    "alis": "^0.3.2",
     "dotenv": "^6.0.0",
+    "dropbox": "^4.0.9",
     "firebase-admin": "^6.0.0",
+    "isomorphic-fetch": "^2.2.1",
+    "moment-timezone": "^0.5.21",
+    "monk": "^6.0.6",
+    "twit": "^2.2.11",
     "underscore": "^1.9.1"
   }
 }
