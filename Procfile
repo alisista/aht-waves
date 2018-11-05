@@ -1,1 +1,1 @@
-cron: node lib/crontab.js
+cron: node lib/crontab.js default,testnet
