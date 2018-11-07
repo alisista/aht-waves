@@ -6,5 +6,7 @@
   {"p":["rewardALISArticles"],"t":[60,60,6]},
   {"p":["issueMagazine"],"t":[60,60]},
   {"p":["processPayment"],"t":[60,5]},
-  {"p":["processPayment","confirm"],"t":[60,5]}
+  {"p":["processPayment","confirm"],"t":[60,5]},
+  {"p":["updateMagazine"],"t":[60,60]},
+  {"p":["listMagazine"],"t":[60,60]}
 ]
