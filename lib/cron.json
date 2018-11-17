@@ -4,9 +4,9 @@
   {"p":["tweetMagazine"],"t":[60,30], "mainonly":true},
   {"p":["rewardALISArticles","init"],"t":[60,60]},
   {"p":["rewardALISArticles"],"t":[60,60,6]},
-  {"p":["issueMagazine"],"t":[60,60], "testonly":true},
+  {"p":["issueMagazine"],"t":[60,60]},
   {"p":["processPayment"],"t":[60,5]},
   {"p":["processPayment","confirm"],"t":[60,5]},
-  {"p":["updateMagazine"],"t":[60,60], "testonly":true},
-  {"p":["listMagazine"],"t":[60,60], "testonly":true}
+  {"p":["updateMagazine"],"t":[60,60]},
+  {"p":["listMagazine"],"t":[60,60]}
 ]
